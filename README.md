@@ -1,0 +1,1 @@
+this project contains the setup and documentation for the Zach Academy student support board the bot assist students with common troubleshooting steps including login issues video playback problems and offline download functionality 
